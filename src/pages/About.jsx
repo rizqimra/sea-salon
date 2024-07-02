@@ -7,7 +7,7 @@ const About = () => {
         <h1 className="text-[#171A31] font-semibold text-5xl">About us</h1>
       </div>
       <div className="flex justify-evenly gap-20">
-        <img src="src/assets/about-pic.webp" alt="About us image" width="600" />
+        <img src="assets/about-pic.webp" alt="About us image" width="600" />
         <p className="text-justify">
           Welcome to SEA Salon, where we redefine
           beauty and elegance with every touch. As a premier destination in the

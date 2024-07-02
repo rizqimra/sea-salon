@@ -12,7 +12,7 @@ const Services = () => {
           <Card
             image={
               <Image
-                imageUrl="public/assets/makeup.svg"
+                imageUrl="assets/makeup.svg"
                 className="w-10 h-10 md:w-32 md:h-32"
               />
             }
@@ -24,7 +24,7 @@ const Services = () => {
           <Card
             image={
               <Image
-                imageUrl="public/assets/haircut.svg"
+                imageUrl="assets/haircut.svg"
                 className="w-10 h-10 md:w-32 md:h-32"
               />
             }
@@ -36,7 +36,7 @@ const Services = () => {
           <Card
             image={
               <Image
-                imageUrl="public/assets/facial.svg"
+                imageUrl="assets/facial.svg"
                 className="w-10 h-10 md:w-32 md:h-32"
               />
             }

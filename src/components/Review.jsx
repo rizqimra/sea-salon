@@ -71,7 +71,7 @@ const Review = ({ comment, image, name, location, rating }) => {
               {location}
             </div>
           </div>
-          <img src="src/assets/comment.svg" alt="Comment icon" width={75} />
+          <img src="assets/comment.svg" alt="Comment icon" width={75} />
         </div>
       </div>
     </>
