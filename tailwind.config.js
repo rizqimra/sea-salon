@@ -7,8 +7,8 @@ export default {
   theme: {
     extend: {
       backgroundImage: {
-        'hero': 'url(src/assets/hero-bg.webp)',
-        'hero-mobile': 'url(src/assets/hero-bg-mobile.webp)',
+        'hero': 'url(public/assets/hero-bg.webp)',
+        'hero-mobile': 'url(public/assets/hero-bg-mobile.webp)',
       },
       fontFamily: {
         primary: ['Poppins', 'sans-serif'],
